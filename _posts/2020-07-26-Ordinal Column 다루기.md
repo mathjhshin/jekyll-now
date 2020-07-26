@@ -189,11 +189,14 @@ $$
 
 
 
-
 # Reference
 
-[https://en.wikipedia.org/wiki/Ridit_scoring#cite_note-2]: https://en.wikipedia.org/wiki/Ridit_scoring#cite_note-2
-[https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html]: https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html
-[https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html]: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html
-[http://contrib.scikit-learn.org/category_encoders/binary.html]: http://contrib.scikit-learn.org/category_encoders/binary.html
-[https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02]: https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02
+https://en.wikipedia.org/wiki/Ridit_scoring#cite_note-2
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html 
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html 
+
+ http://contrib.scikit-learn.org/category_encoders/binary.html 
+
+https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02 
